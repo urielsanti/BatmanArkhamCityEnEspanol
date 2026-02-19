@@ -1,0 +1,1 @@
+ve a la carpeta BATMAN ARKHAM CITY GOTY extraida, luego entra en Batman Arkham City GOTY, después en BmGame y por último en Localization ahora pega este archivo y reemplazalo por el otro INT, vuelve a iniciar el ejecutador del juego y listo :)
